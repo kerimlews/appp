@@ -1,0 +1,23 @@
+.posts-container-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1em;
+  margin-top: 0.5em;
+  padding: 3em;
+}
+
+.posts-list {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  flex-direction: column;
+}
+
+.posts-list-post-details {
+  border: 1px solid gray;
+}
+
+.associated-comment {
+  border-bottom: 1px solid burlywood;
+}
