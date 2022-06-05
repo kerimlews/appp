@@ -2,9 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Approximate time needed to finish the assignment
-### `write code + code review = 3 hours`
-
 ## Available Scripts
 
 First run 
